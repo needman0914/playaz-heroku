@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4d6c3eb.chunk.css",
+    "main.js": "/static/js/main.fa9ac287.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.c64c6851.js",
+    "static/js/2.6c7240d0.chunk.js": "/static/js/2.6c7240d0.chunk.js",
+    "static/js/3.3bad66b4.chunk.js": "/static/js/3.3bad66b4.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.6c7240d0.chunk.js.LICENSE.txt": "/static/js/2.6c7240d0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Montserrat-ExtraBold.5daafc62.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c64c6851.js",
+    "static/js/2.6c7240d0.chunk.js",
+    "static/css/main.b4d6c3eb.chunk.css",
+    "static/js/main.fa9ac287.chunk.js"
+  ]
+}
